@@ -1,0 +1,15 @@
+current directory: /Users/ryonakagawa/workspace/adhunt-rails/vendor/bundle/ruby/2.4.0/gems/bootsnap-1.3.2/ext/bootsnap
+/Users/ryonakagawa/.rbenv/versions/2.4.3/bin/ruby -r ./siteconf20190106-16213-bzelf9.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ryonakagawa/workspace/adhunt-rails/vendor/bundle/ruby/2.4.0/gems/bootsnap-1.3.2/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/ryonakagawa/workspace/adhunt-rails/vendor/bundle/ruby/2.4.0/gems/bootsnap-1.3.2/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/ryonakagawa/workspace/adhunt-rails/vendor/bundle/ruby/2.4.0/gems/bootsnap-1.3.2/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20190106-16213-1n4e7et/bootsnap

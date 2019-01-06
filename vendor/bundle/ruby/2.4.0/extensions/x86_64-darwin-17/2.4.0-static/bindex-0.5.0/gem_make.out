@@ -1,0 +1,15 @@
+current directory: /Users/ryonakagawa/workspace/adhunt-rails/vendor/bundle/ruby/2.4.0/gems/bindex-0.5.0/ext/bindex
+/Users/ryonakagawa/.rbenv/versions/2.4.3/bin/ruby -r ./siteconf20190106-16213-1t8ozky.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ryonakagawa/workspace/adhunt-rails/vendor/bundle/ruby/2.4.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /Users/ryonakagawa/workspace/adhunt-rails/vendor/bundle/ruby/2.4.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.bundle
+
+current directory: /Users/ryonakagawa/workspace/adhunt-rails/vendor/bundle/ruby/2.4.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20190106-16213-12i0ww8/bindex
